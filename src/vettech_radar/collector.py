@@ -15,6 +15,12 @@ SEARCH_TERMS = [
     "customer support engineer",
     "application support analyst",
     "junior developer",
+    "junior software developer",
+    "software developer",
+    "software engineer",
+    "junior software engineer",
+    "full stack developer",
+    "backend developer",
     "remote support",
     "work from home IT",
 ]
