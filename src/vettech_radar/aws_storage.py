@@ -87,7 +87,7 @@ def save_raw_json_to_s3(data, search_term, timestamp):
     s3.put_object(
         Bucket=bucket_name,
         Key=key,
-        Body=json.dumps(data, ihdent=2),
+        Body=json.dumps(data, indent=2),
         ContentType="application/json",
     )
 
